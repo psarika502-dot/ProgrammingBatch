@@ -9,7 +9,7 @@ public class CountFactor {
 		System.out.println("Enter Number: ");
 		
 		int input = sc.nextInt();
-		System.out.println(countFactors(input));
+		System.out.println("Natural Number Count is: "+countFactors(input));
 		
 	}
 	
