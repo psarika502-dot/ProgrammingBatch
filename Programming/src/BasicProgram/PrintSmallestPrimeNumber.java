@@ -23,6 +23,7 @@ public class PrintSmallestPrimeNumber {
 			}
 			if(count == 2) {
 				System.out.print(i);
+				System.out.println("Smallest Prime Number is : "+i);
 				break;
 			}
 		}
