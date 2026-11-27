@@ -19,5 +19,4 @@ public class CheckPerfectNumber {
 		}
 		return num == sum;
 	}
-
 }
